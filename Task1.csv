@@ -1,0 +1,7 @@
+,Number of Values,Number of null values,Type of data
+userid,90070,0,int64
+version,90070,0,object
+sum_gamerounds,90069,1,float64
+retention_1,90070,0,bool
+retention_7,90070,0,bool
+number,90070,0,int64
